@@ -1,0 +1,115 @@
+body{
+	font-size: 16px;
+	color:#000000;
+	background-color: #fff0f5;
+	font-family: helvetica,sans-serif;
+	font-weight: bolder;
+}
+#header-nav{
+	background-color: #9DC209;
+	border-radius: 0;
+	border:0;
+	color: #000000;
+	font-weight: bold;
+
+
+}
+.navbar-brand{
+	padding-top: 15px;
+}
+.navbar-brand h1{
+	font-family: helvetica,serif;
+	color:#000000;
+	font-size: 1.3em;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 10px;
+	margin-bottom: 0;
+	margin-left: 20px;
+	line-height: .75;
+	text-decoration: none;
+}
+.navbar-brand a:hover,.navbar-brand a:focus{
+	text-decoration: none;
+}
+#food{
+	color: #000000;
+	font-weight: bold;
+
+}
+
+
+.navbar-toggle{
+	position: relative;
+	float:right;
+	padding: 9px 10px;
+	margin-top: 8px;
+	margin-right: 15px;
+	margin-bottom: 8px;
+	background-color: transparent;
+	background-image: none;
+	border:1px solid transparent;
+	border-radius: 4px;
+	color:#000000;
+	font-size: 1.2em;
+}
+
+
+
+section {
+  font-size:1.4em; 
+  background-color: #9DC209;
+  border: 1px solid #000000;
+  margin: 0 0 25px 0;
+  padding: 0;
+  color:#000000;
+  font-weight: bold;
+}
+section h3 {
+  font-size: 1.25em;
+}
+section p {
+  padding: 0 6px 4px 6px;
+}
+
+.header{
+	font-weight: bolder;
+	color:#FFC300;	
+	font-size: 2em;
+}
+#chicken{
+	color:#FFC300;
+}
+#beef{
+	color:#FFC300;
+}
+#sushi{
+	color:#FFC300;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border:1px solid #61122f;
+}
+@media (max-width: 767px)
+{
+	.navbar-brand{
+		padding-top: 10px;
+		height: 80px;
+	}
+	.navbar-brand h1{
+		padding-top: 10px;
+		font-size: 5vw;
+	}
+}
+
+#dropdown{
+	background-color: #9DC209;
+	color:#000000;
+	font-weight: bold;
+}
+hr.style1 {
+margin-bottom: -7px;
+}
+#pool{
+color:#000000;
+font-weight: bold;
+}
